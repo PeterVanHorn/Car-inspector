@@ -1,0 +1,1 @@
+C:\GitHubRepos\Car-inspector\CarInspectorApp\CarInspectorApp.csproj;x64
